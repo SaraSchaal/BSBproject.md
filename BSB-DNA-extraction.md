@@ -39,7 +39,7 @@ Samples are in the -80oC freezer, except SN (-20oc freezer).
 * 2nd (70-90%) EtOH entire benchtop
 * gloves
 * beaker with ~50mL 90% EtOH
-* ligther
+* lighter
 * blades - one per sample
 * sharps container
 * trash bin
@@ -79,6 +79,7 @@ From E.Z.N.A tissue DNA kit (D3396-02, Omega) - when using tubes (T):
     * Spin tubes (T): pipette TL buffer directly into each 1.5 mL autoclaved eppendorf tube.
 
 **Q FOR SARA: ADD PROTEASE TO THE BUFFER AT THIS POINT OR AFTER SAMPLES ARE IN?**
+**ANWSER FROM SARA: After samples are put in**
 
 2. Take 4-8 samples out of the freezer at the time; keep them on ice or cold beads.
 
@@ -116,14 +117,17 @@ From E.Z.N.A tissue DNA kit (D3396-02, Omega) - when using tubes (T):
 5. (P) Shake or vortex the plate vigorously (holding the silicone cover mat) and ensure the lysate is completely homogeneous after shaking (if not further digestion is required). 
 
 **Q FOR SARA: DID YOU DO THE OPTIONAL STEP "ADD RNASE"?**
+**ANSWER FROM SARA: NO**
 
 6. (P) Add two volumes (~450 uL) of BL buffer to each sample, then vortex samples for 1 min. 
 
 **Q FOR SARA - IS BL BUFFER ADDED ON TOP OF THE TL BUFFER? OR AM I MISSING A STEP HERE? IN THE 'TUBES' PROTOCOL, THE SAMPLE IS CENTRIFUGED FIRST AND SUPERNATANT IS ISOLATED, AND THEN WE ADD BL BUFFER**
+**ANWER FROM SARA: Yes its added ontop of it**
 
 7. (P) Spin down for 4 min at top speed (because we have large pieces of tissue that won’t settle if just briefly spun, as described in the kit manual; also don’t want to spin too long because DNA will settle too and could be lost).
 
 **Q FOR SARA - DID YOU DO THE OPTIONAL COLUMN EQUILIBRATION PROTOCOL (ADDING 3M NAOH)**
+**ANSWER FROM SARA: NO**
 
 8. (P) Place E-Z 96 DNA plate (mini-columns plate) on top of a 96-well square-well plate - tape them together.
 
@@ -160,6 +164,7 @@ From E.Z.N.A tissue DNA kit (D3396-02, Omega) - when using tubes (T):
 22. (P) Add 200uL Elution buffer (or water, ask katie)
 
  **Q FOR SARA - SHOULD I USE MQ WATER? IF SO, AUTOCLAVED?**
+ **ANSWER FROM SARA: MOLECULAR GRADE H20**
  
 23. (P) Let it sit for 2-5 minutes.
 
@@ -168,6 +173,7 @@ From E.Z.N.A tissue DNA kit (D3396-02, Omega) - when using tubes (T):
 optional to repeate stps 21-24 for a second elution step - increases DNA yield but decreases DNA concentration. If higher concentration is desired, the second elutin can be done with 200uL eluate from first elution, reheated to 70oC
 
 **Q TO SARA - DID YOU DO THE ABOVE OPTIONAL STEP?**
+**ANSEWR FROM SARA: Yes but I elute into the same tube as the first elution**
 
 25. (P) Seal the 96-racked microtubes with their caps and store at -20oC.
 
@@ -178,6 +184,7 @@ optional to repeate stps 21-24 for a second elution step - increases DNA yield b
 6. (T) Transfer the supernatant to a sterile 1.5 mL microcentrifuge tube. Do not disturbe or transfer any of the insoluble pellet.
 
 **Q to SARA - DISCARD or SAVE PELLET?**
+**ANSWER FROM SARA: I DISCARD**
 
 7. (T) Add 220 uL BL buffer (adjust volume based on amount of starting material, if needed). Vortex to mix (a wispy precipitate may form upon addition of BL, ignore it).
 
